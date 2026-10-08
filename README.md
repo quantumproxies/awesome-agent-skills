@@ -1714,6 +1714,8 @@ Official skills published by Cypress to help create, maintain, understand, and f
 - **[half144/cutaway](https://github.com/half144/cutaway)** - Record polished demo videos of web flows with Playwright
 - **[kulchankas/paranoid](https://github.com/kulchankas/paranoid)** - Pentests your running app: find, prove, patch, re-verify
 - **[gal-a/qikly](https://github.com/gal-a/qikly/tree/main/.claude/skills/qikly)** - Writes pytest suites from criteria the coding agent never sees
+- **[quantumproxies/quanticdata-skills](https://github.com/quantumproxies/quanticdata-skills)** - Scrape to Markdown, search, crawl and build datasets via QuanticData
+- **[quantumproxies/quantumproxies-skills](https://github.com/quantumproxies/quantumproxies-skills)** - Generate proxy strings, scrape, search and crawl via QuantumProxies.io
 
 </details>
 
